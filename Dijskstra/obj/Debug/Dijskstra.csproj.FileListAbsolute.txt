@@ -1,0 +1,28 @@
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe.config
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\bin\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csprojResolveAssemblyReference.cache
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.exe
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe.config
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\bin\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csprojResolveAssemblyReference.cache
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.exe
+C:\Users\ELVIS\Desktop\OPERATIONS_RESEARCH\Dijskstra\Dijskstra\obj\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe.config
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\bin\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csprojResolveAssemblyReference.cache
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\obj\Debug\Dijskstra.exe
+C:\Users\ELVIS\Desktop\GROUP_10_SSG308\Dijskstra\Dijskstra\obj\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe.config
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\bin\Debug\Dijskstra.exe
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\bin\Debug\Dijskstra.pdb
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csprojResolveAssemblyReference.cache
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\obj\Debug\Dijskstra.csproj.CoreCompileInputs.cache
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\obj\Debug\Dijskstra.exe
+C:\Users\ELVIS\Documents\Visual Studio 2017\Projects\HOLZ\Dijskstra\Dijskstra\obj\Debug\Dijskstra.pdb
