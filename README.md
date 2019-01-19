@@ -13,7 +13,9 @@ the algorithm once the shortest path to the destination node has been determined
 For example, if the nodes of the graph represent cities and edge path costs represent driving distances between 
 pairs of cities connected by a direct road, 
 Dijkstra's algorithm can be used to find the shortest route between one city and all other cities. 
-  --From Wikipedia
+  
+  
+  --Taken from Wikipedia
   
   
   
